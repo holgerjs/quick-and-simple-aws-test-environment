@@ -1,4 +1,4 @@
-IaC Repo for quickly spinning up a test environment in AWS.
+IaC Repo for myself for quickly spinning up a test environment in AWS.
 
 ## Objectives
 
