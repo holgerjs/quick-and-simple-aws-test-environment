@@ -20,3 +20,7 @@ IaC Repo for myself for quickly spinning up a test environment in AWS.
 2. Choose a way for authenticating with AWS. See [AWS Provider - Authentication and Configuration](https://registry.terraform.io/providers/hashicorp/aws/latest/docs#authentication-and-configuration) for details.
 3. Change into the `terraform` folder.
 4. Execute `terraform init`, `terraform plan`, check the plan and subsequently run `terraform apply`
+
+## Remove Resources
+
+Once testing is finished, remove the resources by executing `terraform destroy`
